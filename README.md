@@ -1,0 +1,2 @@
+# bashnotes
+bash notes
