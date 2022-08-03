@@ -1,5 +1,5 @@
-# bashnotes
-## basic redirections
+# `bash` notes
+## Basic redirections
 - `> filename` redirect stdout
 - `>> filename` redirect stdout apending to file
 - `< filename` redirect stdin
@@ -16,7 +16,7 @@ end
 
 - `<<< "text message"` here string: direct the string to stdin
 
-## substitutions
+## Substitutions
 - `$name` substitute variable
 - `$(command)` substitute output of command
 - `$(<file)` substitute in file content: is a substitution and a redirect.
